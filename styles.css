@@ -1,0 +1,119 @@
+.bg-container1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+    height: 100vh;
+    width: 90%;
+    background-size: contain;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+  }
+.tourism-card {
+    text-align: center;
+    background-color: white;
+    padding: 5px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+  }
+.main-heading1 {
+    font-family: "Roboto";
+  }
+.paragraph {
+    font-family: "Roboto";
+  }
+.button {
+    color: white;
+    background-color: #25b1cc;
+    width: 138px;
+    height: 36px;
+    border-width: 0px;
+    border-radius: 20px;
+  }
+
+
+
+.bg-container2{
+   
+    padding: 30px;
+    
+}
+.main-content{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+    height: 100%;
+    background-size: cover;
+
+}
+.main-heading2{
+    color: white;
+}
+
+
+.bg-card-container{
+    background-color: white;
+    padding: 20px;
+    margin: 20px 0 20px 0;
+    border-radius: 20px;
+    width: 500px;
+    cursor: pointer;
+    
+
+}
+.small-card-heading{
+    font-size: 25px;
+}
+.small-card-para{
+    font-size: 13px;
+}
+
+.small-card-image{
+    height: 100px;
+    width: 80px;
+    
+}
+
+
+.detailed-view-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    height: 100%;
+    background-size: cover;
+  }
+  .detailed-view-heading {
+    color: white;
+    font-size: 28px;
+    font-family: 'Roboto';
+    font-weight: bold;
+    padding: 24px;
+  }
+  .detailed-view-card-container{
+      padding: 20px;
+  }
+  .detailed-view-card-content{
+      background-color: white;
+      padding: 20px;
+      border-bottom-left-radius: 20px;
+      border-bottom-right-radius: 20px;
+      width: 50%;
+      height: 50%;
+      margin: 0 auto;
+
+  }
+  .card-heading{
+      font-size: 25px;
+  }
+  .card-para{
+      font-size: 15px;
+  }
+  .top-corosel{
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+    
+  }
+  .back-button{
+    margin-bottom: 20px;
+  }
+
+  .back-button{
+   margin-top: 5px;
+  }
+ 
+  
